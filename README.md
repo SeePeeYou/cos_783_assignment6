@@ -27,6 +27,7 @@ Create spacy env
 - python -m venv spacy_env    
 - Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass [might need this]
 - spacy_env\Scripts\activate [windows]
+- pip install ipykernel   
 - pip install spacy
 - python -m pip install pandas
 - pip install openpyxl    
